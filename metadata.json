@@ -1,0 +1,5 @@
+{
+  "name": "Lens & Story - AI Gallery",
+  "description": "A smart photo gallery that automatically generates artistic captions and tags for your uploaded images using Google Gemini AI.",
+  "requestFramePermissions": []
+}
